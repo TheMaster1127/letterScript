@@ -16,8 +16,6 @@
 ; ------------------------------------------------------------------------
 
 func bool isToken(arr str tokenArray, str line) {
-
-
 Loop, % tokenArray.size() {
 if (line = tokenArray[A_Index]) {
 return true
