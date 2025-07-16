@@ -6,7 +6,7 @@
 
 ## What is `letterScript`?
 
-`letterScript` is a hyper-minimalist, esoteric programming language with a single, radical purpose: **to be the most token-efficient language for an AI to write.**
+`letterScript` is a hyper-minimalist, AI-optimized programming language with a single, radical purpose: **to be the most token-efficient language for an AI to write.**
 
 It is not designed for humans. It is not designed for readability. It is designed for raw, uncompromising machine efficiency. `letterScript` strips away every extraneous character—spaces, delimiters, verbose keywords—to create a language so dense that it can be considered a **text-based bytecode for Large Language Models.**
 
