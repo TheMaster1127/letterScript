@@ -298,8 +298,8 @@ StringTrimRight, code, code_code, 1
 
 
 
-arr str continuationTokens := ["a", "=", "+", "-", ">", "<", "*", "/", "%"]
-arr str skipTokens := ["#", "i", "PRINT", "(", ")"]
+arr str continuationTokens := ["a", "=", "+", "-", ">", "<", "*", "/", "%", ".", "&", "|", "!", ":", "^", "\"]
+arr str skipTokens := ["d", "i", "PRINT", "(", ")", Chr(96), "v", "s", "f", "e", "j", "w", "~", "p", "q", "k", "b", "l", "o", "m", "f", "y", "z", "h", "'", "r", "[", "u"]
 
 arr str furture
 Loop, Parse, code, " " {
