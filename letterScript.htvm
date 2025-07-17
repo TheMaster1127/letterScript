@@ -285,6 +285,8 @@ arr str code_codeARR
 Loop, Parse, code, " " {
 code_codeARR.add(A_LoopField)
 }
+
+
 code_codeARR.add(" ")
 Loop, Parse, code, " " {
 if (A_LoopField = "PRINT") and (code_codeARR[A_Index + 1] != "(") {

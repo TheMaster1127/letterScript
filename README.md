@@ -1,5 +1,7 @@
 # letterScript
 
+#### 🚧 This project is in super early development!!! 🚧
+
 ### `letterScript`: The Language Made For AI
 
 ---
